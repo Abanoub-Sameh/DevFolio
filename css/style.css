@@ -9,7 +9,7 @@
 
 /* ********** start nav******* */
 .container {
-    width: 70% !important;
+    width: 90% !important;
 }
 .nav-container a{
     color: var(--main-color) !important;
@@ -110,7 +110,7 @@
     
 }
 .about-container{
-    width: 70% !important;
+    width: 90% !important;
 }
 .progress-skills .progress, .progress-stacked {
     height: 11px;
